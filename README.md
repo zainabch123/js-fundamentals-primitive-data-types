@@ -12,7 +12,7 @@
   - [MDN - Javascript Primitive values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
   - Number
   - String
-  - *Optionally*
+  - *TODO:Optionally??*
     - Boolean
     - Null
     - Undefined
@@ -26,7 +26,7 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 - Fork this repository and clone your forked version to your machine
 - Install dependencies by running the command below while in the project's root directory:
 
-    `npm ci`
+  `npm ci`
 
 ## Instructions
 
@@ -43,9 +43,11 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 
 - To verify your solutions, run the test suite by running the `npx jasmine` command followed by the path to the corresponding test file for each `src/*.js` file above, eg:
 
-    `npx jasmine spec/<file>.spec.js`
+  `npx jasmine spec/<file>.spec.js`
 
-- Alternatively, run `npm test`
+- Alternatively, run:
+ 
+  `npm test`
 
 - To begin with, almost all of the tests will fail - example tests, if they exist, will pass with a green `.` You'll see a number of red `F`s in your console (possibly many), similar to the image below:
 
@@ -65,4 +67,6 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 
   `npx jasmine extensions/<file>.spec.js`
 
-- Alternatively, run `npm run test-extensions`
+- Alternatively, run:
+  
+  `npm run test-extensions`
