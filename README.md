@@ -31,7 +31,8 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 ## Instructions
 
 - Read through the numbered comments in the following files to understand the requirements of this exercise.
-  - `src/<file>.js`
+  - `src/numbers.js`
+  - `src/strings.js`
 
 - Write your code directly below the numbered comment.
 
@@ -43,7 +44,7 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 
 - To verify your solutions, run the test suite by running the `npx jasmine` command followed by the path to the corresponding test file for each `src/*.js` file above, eg:
 
-  `npx jasmine spec/<file>.spec.js`
+  `npx jasmine spec/numbers.spec.js`
 
 - Alternatively, run:
  
@@ -62,10 +63,11 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 - Extension exercises can be found in the `src/extensions` directory with corresponding tests in the `spec/extensions` directory.
 
 - Follow the instructions in the following files to complete the extensions.
+  - TODO: `src/extensions/<file>.js`
 
 - To run the tests for the extensions, you can either run spec files individually as follows:
 
-  `npx jasmine extensions/<file>.spec.js`
+  `npx jasmine spec/extensions/<file>.spec.js`
 
 - Alternatively, run:
   
