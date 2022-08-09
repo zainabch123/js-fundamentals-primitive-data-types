@@ -1,4 +1,4 @@
-# Programming Fundamentals: Data Types 1
+# Programming Fundamentals: Primitive Data Types
 
 ## TODO: Template updates - then delete this section
 
@@ -12,11 +12,16 @@
 ## Learning Objectives
 
 - Understand the Javascript Primitive Data Types
-  - 
+  - [MDN Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
+  - Number
+  - String
+  - Boolean
+  - Null
+  - Undefined
 
 ## Introduction
 
-In this exercise you will ...
+In this exercise you will learn how to manipulate the Javascript Number and String data types
 
 ## Setup
 
