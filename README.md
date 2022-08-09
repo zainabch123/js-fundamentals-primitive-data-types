@@ -2,22 +2,20 @@
 
 ## TODO: Template updates - then delete this section
 
-- [ ] Add `Topic-N` name above
-- [ ] Change `package.json` `"name"` property to match new repository
-- [ ] Add Core `src` and `spec` files
 - [ ] Add optional Extensions `src` and `spec` files
   - Add in correct `extensions` sub-directories. See also `--config=...` in `package.json "scripts"` and `spec/support`
 - [ ] Fill in details below!
 
 ## Learning Objectives
 
-- Understand the Javascript Primitive Data Types
-  - [MDN Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
+- Introduction to the following Javascript Primitive Data Types
+  - [MDN - Javascript Primitive values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
   - Number
   - String
-  - Boolean
-  - Null
-  - Undefined
+  - *Optionally*
+    - Boolean
+    - Null
+    - Undefined
 
 ## Introduction
 
@@ -49,7 +47,7 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 
 - Alternatively, run `npm test`
 
-- To begin with, almost all of the tests will fail - example tests, if they exist, will pass with a green `.`. You'll see many red `F`s in your console, like the image below:
+- To begin with, almost all of the tests will fail - example tests, if they exist, will pass with a green `.` You'll see a number of red `F`s in your console (possibly many), similar to the image below:
 
   ![](./img/test-fail.png)
 
