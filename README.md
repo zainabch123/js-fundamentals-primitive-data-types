@@ -1,21 +1,11 @@
 # Programming Fundamentals: Primitive Data Types
 
-## TODO: Template updates - then delete this section
-
-- [ ] Add optional Extensions `src` and `spec` files
-  - Add in correct `extensions` sub-directories. See also `--config=...` in `package.json "scripts"` and `spec/support`
-- [ ] Fill in details below!
-
 ## Learning Objectives
 
 - Introduction to the following Javascript Primitive Data Types
   - [MDN - Javascript Primitive values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
   - Number
   - String
-  - *TODO:Optionally??*
-    - Boolean
-    - Null
-    - Undefined
 
 ## Introduction
 
@@ -61,9 +51,6 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 ## Extensions
 
 - Extension exercises can be found in the `src/extensions` directory with corresponding tests in the `spec/extensions` directory.
-
-- Follow the instructions in the following files to complete the extensions.
-  - TODO: `src/extensions/<file>.js`
 
 - To run the tests for the extensions, you can either run spec files individually as follows:
 
