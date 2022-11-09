@@ -1,6 +1,10 @@
 // do not edit these lines
+
+/* eslint-disable no-unused-vars */
 const numOne = 8
+/* eslint-disable no-unused-vars */
 const numTwo = 16
+/* eslint-disable no-unused-vars */
 const numThree = 32
 
 // TODO: Replace NaN below using Javascript numeric operators so that the tests pass
