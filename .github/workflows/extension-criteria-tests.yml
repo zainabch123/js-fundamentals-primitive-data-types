@@ -1,4 +1,4 @@
-name: Standard Criteria
+name: Extension Criteria
 on:
   pull_request:
     branches: [ main ]
