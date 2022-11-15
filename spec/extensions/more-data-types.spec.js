@@ -1,4 +1,4 @@
-const { a, b, c, d, e, f, g, h } = require('../../src/extensions/more-data-types.js')
+const { a, b, c, d, e, f, g } = require('../../src/extensions/more-data-types.js')
 
 describe('Example [Extensions]', () => {
   it( "Check null", () => {
@@ -14,12 +14,12 @@ describe('Example [Extensions]', () => {
     expect(d).toBe(undefined);
   })
   it( "Check boolean", () => {
-    expect(f).toBe("boolean");
+    expect(e).toBe("boolean");
   })
   it( "Check boolean", () => {
-    expect(g).toBe("boolean");
+    expect(f).toBe("boolean");
   })
   it( "Check undefined", () => {
-    expect(h).toBe("undefined");
+    expect(g).toBe("undefined");
   })
 })
