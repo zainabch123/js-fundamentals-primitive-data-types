@@ -19,11 +19,16 @@ const cityEndsWith = false
 // hint (you might want to replace first, then split)
 const shoppingListArray = []
 
+// TODO - concatenate two strings using the `${var}` syntax
+// make cityStrConcat equal to 'New York City'
+const cityStrConcat = ''
+
 module.exports = {
   cityIndex,
   citySubstring,
   cityReplaced,
   cityStartsWith,
   cityEndsWith,
-  shoppingListArray
+  shoppingListArray,
+  cityStrConcat
 }
