@@ -6,7 +6,7 @@ const nullVariable = ''
 // 2. Set this variable to be true
 const trueVariable = ''
 
-// 2. Set this variable to be false
+// 2. Set this variable to be the opposite of the trueVariable (ie. false);
 const falseVariable = ''
 
 // 3. Set this variable to be undefined

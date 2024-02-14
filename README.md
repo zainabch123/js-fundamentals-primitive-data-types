@@ -21,12 +21,13 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
 ## Instructions
 
 - Read through the numbered comments in the following files to understand the requirements of this exercise.
+
   - `src/numbers.js`
   - `src/strings.js`
 
 - Write your code directly below the numbered comment.
 
-- Add `console.log()`s to get visibility on your solution and run the file with the command `node src/<file>.js` *etc*
+- Add `console.log()`s to get visibility on your solution and run the file with the command `node src/<file>.js` _etc_
 
 - See `src/example.js` for some examples
 
@@ -37,7 +38,7 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
   `npx jasmine spec/numbers.spec.js`
 
 - Alternatively, run:
- 
+
   `npm test`
 
 - To begin with, almost all of the tests will fail - example tests, if they exist, will pass with a green `.` You'll see a number of red `F`s in your console (possibly many), similar to the image below:
@@ -57,5 +58,17 @@ In this exercise you will learn how to manipulate the Javascript Number and Stri
   `npx jasmine spec/extensions/<file>.spec.js`
 
 - Alternatively, run:
-  
+
   `npm run test-extensions`
+
+## Advanced Extensions
+
+- Advanced Extension exercises can be found in the `src/advanced` directory with corresponding tests in the `spec/advanced` directory.
+
+- To run the tests for the extensions, you can either run spec files individually as follows:
+
+  `npx jasmine spec/advanced/<file>.spec.js`
+
+- Alternatively, run:
+
+  `npm run test-advanced`
